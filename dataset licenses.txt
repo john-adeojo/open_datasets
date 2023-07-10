@@ -1,0 +1,3 @@
+CO2 Emissions_Canada: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho license: https://opendatacommons.org/licenses/dbcl/1-0/
+Spotify Charts: https://www.kaggle.com/datasets/dhruvildave/spotify-charts license: https://opendatacommons.org/licenses/odbl/1-0/
+aggregate-complaints-data-2022-h2: https://www.fca.org.uk/data/complaints-data/aggregate-complaints-data-2022-h2 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
